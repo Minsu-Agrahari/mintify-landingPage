@@ -10,7 +10,7 @@ body{
 }
 
 #first-section{
-    background-image: url("../public/sec-1/bg.png");
+    background-image: url("asset/sec-1/bg.png");
     min-height: 100vh;
     background-size: cover;
     background-position: center;
