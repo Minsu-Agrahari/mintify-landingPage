@@ -9,7 +9,8 @@ body{
     color: #d1d0d6;
 }
 hr{
-    border: 1px solid #ffffffB3;
+    border: 1px solid #ffffff;
+    opacity: 0.1;
 }
 #first-section{
     background-image: url("../asset/sec-1/bg.png");
